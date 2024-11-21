@@ -1,16 +1,26 @@
-# college-dormitory-managment-system
+# **College Dormitory Management System (CDMS)**
 
-This final year project was developed to automate tasks that were previously done manually, such as college applications, payments, outings, and dormitory management. The system aims to simplify the workflow for both students and staff by making these processes computerized.<br>
+This final year project was developed to automate tasks that were previously done manually, such as college applications, payments, outings, and dormitory management. The system aims to simplify the workflow for both students and staff by making these processes computerized.
 
-<h1><b>CDMS</b></h1>
-<p><b>CDMS stands for college dormitory management system.</p></b><br>
-<p>There are two users which student and staff both can sign up and sign in into the system.</p>
+## **What is CDMS?**
 
-<h3><b>Staff</b></h3>
-<hr>
-<p>Manage the application on dormitory and outing, dormitory and electrical payment, and dormitory room.</p>
-<p>Staff are provide with a data visualization dashboard to keep track on the payment, outing and dormitory application.</p>
+**CDMS** stands for **College Dormitory Management System**. It provides functionalities for two types of users: **students** and **staff**, both of whom can sign up and sign in to the system.
 
-<h3><b>Student</b></h3>
-<hr>
-<p>Student can apply for the college dormitory. If were accepted student can proceed with other function on outing and payment</p>
+### **Features**
+
+#### **For Staff**
+- Manage applications for dormitory rooms and outing requests.
+- Handle dormitory and electrical payments, and assign dormitory rooms.
+- Access a **data visualization dashboard** to track payments, outings, and dormitory applications.
+
+#### **For Students**
+- Apply for a dormitory room and check the application status.
+- Once accepted, students can manage outing requests and make payments through the system.
+
+#### **Technologies**
+- HTML, CSS, JavaScript, PHP.
+- Xampp PHPMyadmin.
+
+#### **How to use**
+- Open `index.php` in your browser to run the project.
+- Example localhost/cdms/index.php.
